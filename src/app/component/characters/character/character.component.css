@@ -1,0 +1,39 @@
+.container {
+    width: 60%
+}
+
+.character {
+    font-family: wizardFont;
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid #001d3d;
+    border-radius: 5px;
+    padding: 40px;
+    background-color: #efcc5b;
+    box-shadow: 10px 10px 20px #131212;
+}
+
+.texto {
+    width: 60%;
+    font-size: 1.5em;
+    color: #003566;
+}
+
+.parrafo {
+    width: 80%;
+}
+
+img {
+    display: block;
+    width: 30%;
+    border-radius: 50%;
+}
+
+h3 {
+    color: #003566;
+    text-shadow: 1px 1px #001d3d;
+    font-size: 2.5em;
+}
